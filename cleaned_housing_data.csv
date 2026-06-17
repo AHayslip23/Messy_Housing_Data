@@ -1,0 +1,421 @@
+,area_sqft,bedrooms,bathrooms,year_built,price,location,Historical_Period,Age_of_House,Price_Per_Sqft,Total_Rooms,Decade_Built,size_category,price_category,Region,Home_Classification
+0,2696,4,1,1962,2068779.98,Austin,Vietnam War Era,64,767.35,8,1960,Large,Luxury,South,Vintage
+1,2017,6,4,2008,1539208.46,San Francisco,Housing Crisis,18,763.12,12,2000,Medium,Premium,West Coast,Modern
+2,1592,3,3,1991,557909.7,San Francisco,1990s Boom,35,350.45,6,1990,Medium,Mid-Range,West Coast,Established
+3,3358,2,4,1914,1180883.15,Chicago,Pre-WWI,112,351.66,4,1910,Large,Premium,Midwest,Historic
+4,1624,2,5,1935,716945.96,New York City,Great Depression,91,441.47,4,1930,Medium,Mid-Range,East Coast,Vintage
+5,924,2,4,1972,574438.17,Chicago,Vietnam War Era,54,621.69,4,1970,Small,Mid-Range,Midwest,Vintage
+6,1922,3,1,1927,1180883.15,Miami,Roaring Twenties,99,614.4,6,1920,Medium,Premium,East Coast,Vintage
+7,4463,2,3,1959,1180883.15,San Francisco,Cold War,67,264.59,4,1950,Luxury,Premium,West Coast,Vintage
+8,3674,1,1,1900,1974364.8,Los Angeles,Pre-WWI,126,537.39,2,1900,Luxury,Premium,West Coast,Historic
+9,3729,1,2,1913,1489205.48,Los Angeles,Pre-WWI,113,399.36,2,1910,Luxury,Premium,West Coast,Historic
+10,4896,5,1,1994,3830378.09,Los Angeles,1990s Boom,32,782.35,10,1990,Luxury,Luxury,West Coast,Established
+11,808,1,1,1959,542187.73,Austin,Cold War,67,671.02,2,1950,Small,Mid-Range,South,Vintage
+12,2117,1,5,1923,1461241.11,San Francisco,Roaring Twenties,103,690.24,2,1920,Medium,Premium,West Coast,Historic
+13,1593,1,4,1967,1180883.15,Austin,Vietnam War Era,59,741.3,2,1960,Medium,Premium,South,Vintage
+14,1778,2,1,1959,1165755.41,Los Angeles,Cold War,67,655.66,4,1950,Medium,Premium,West Coast,Vintage
+15,2389,6,3,1984,1637513.07,Los Angeles,Oil Crisis and Recovery,42,685.44,12,1980,Medium,Premium,West Coast,Established
+16,4425,1,1,1947,2965470.5,Los Angeles,Cold War,79,670.16,2,1940,Luxury,Luxury,West Coast,Vintage
+17,797,4,1,1918,612815.74,Austin,Pre-WWI,108,768.9,8,1910,Small,Mid-Range,South,Historic
+18,3964,3,4,1908,2470823.55,Chicago,Pre-WWI,118,623.32,6,1900,Luxury,Luxury,Midwest,Historic
+19,1262,6,1,1959,446664.75,San Francisco,Cold War,67,353.93,12,1950,Small,Budget,West Coast,Vintage
+20,4134,6,2,1986,2499620.89,Boston,Oil Crisis and Recovery,40,604.65,12,1980,Luxury,Luxury,East Coast,Established
+21,2571,5,3,1934,25710.0,Miami,Great Depression,92,10.0,10,1930,Large,Budget,East Coast,Vintage
+22,2327,1,5,1912,1082617.93,Chicago,Pre-WWI,114,465.24,2,1910,Medium,Premium,Midwest,Historic
+23,1432,3,5,2022,1180883.15,Los Angeles,COVID-19,4,824.64,6,2020,Small,Premium,West Coast,Modern
+24,1358,2,1,1914,329772.59,New York City,Pre-WWI,112,242.84,4,1910,Small,Budget,East Coast,Historic
+25,1980,4,5,1971,693954.16,Chicago,Vietnam War Era,55,350.48,8,1970,Medium,Mid-Range,Midwest,Vintage
+26,4240,5,5,1959,1180883.15,Boston,Cold War,67,278.51,10,1950,Luxury,Premium,East Coast,Vintage
+27,3190,4,5,1937,1253145.14,Los Angeles,Great Depression,89,392.84,8,1930,Large,Premium,West Coast,Vintage
+28,743,4,4,1901,524115.14,Los Angeles,Pre-WWI,125,705.4,8,1900,Small,Mid-Range,West Coast,Historic
+29,2857,3,1,1936,2023729.99,New York City,Great Depression,90,708.34,6,1930,Large,Luxury,East Coast,Vintage
+30,2784,1,1,1951,1297552.1,Chicago,Cold War,75,466.07,2,1950,Large,Premium,Midwest,Vintage
+31,1201,1,1,1993,363624.94,New York City,1990s Boom,33,302.77,2,1990,Small,Budget,East Coast,Established
+32,1022,2,4,2004,814621.64,San Francisco,Post 9/11 Growth,22,797.09,4,2000,Small,Mid-Range,West Coast,Established
+33,4360,6,3,1950,2551135.51,New York City,Cold War,76,585.12,12,1950,Luxury,Luxury,East Coast,Vintage
+34,802,3,1,2003,1180883.15,Austin,Post 9/11 Growth,23,1472.42,6,2000,Small,Premium,South,Established
+35,826,5,5,1956,1180883.15,New York City,Cold War,70,1429.64,10,1950,Small,Premium,East Coast,Vintage
+36,4955,1,3,1939,1769596.1,Chicago,World War II,87,357.13,2,1930,Luxury,Premium,Midwest,Vintage
+37,2221,5,5,2022,659706.61,Boston,COVID-19,4,297.03,10,2020,Medium,Mid-Range,East Coast,Modern
+38,1597,1,2,1991,526823.25,Los Angeles,1990s Boom,35,329.88,2,1990,Medium,Mid-Range,West Coast,Established
+39,3194,2,4,1945,1053573.57,San Francisco,Cold War,81,329.86,4,1940,Large,Premium,West Coast,Vintage
+40,1577,6,5,2022,1175350.02,Austin,COVID-19,4,745.31,12,2020,Medium,Premium,South,Modern
+41,2592,6,3,1919,1693434.38,Los Angeles,Pre-WWI,107,653.33,12,1910,Large,Premium,West Coast,Historic
+42,3674,5,5,1959,2664238.68,Los Angeles,Cold War,67,725.16,10,1950,Luxury,Luxury,West Coast,Vintage
+43,3852,3,5,2005,1180883.15,San Francisco,Post 9/11 Growth,21,306.56,6,2000,Luxury,Premium,West Coast,Established
+44,773,6,2,1947,170067.87,San Francisco,Cold War,79,220.01,12,1940,Small,Budget,West Coast,Vintage
+45,2777,1,1,1959,1409945.42,Los Angeles,Cold War,67,507.72,2,1950,Large,Premium,West Coast,Vintage
+46,3517,1,5,1959,2407961.69,Chicago,Cold War,67,684.66,2,1950,Luxury,Luxury,Midwest,Vintage
+47,3059,1,2,1949,1593555.06,Austin,Cold War,77,520.94,2,1940,Large,Premium,South,Vintage
+48,2772,6,1,1961,1741343.06,Los Angeles,Vietnam War Era,65,628.19,12,1960,Large,Premium,West Coast,Vintage
+49,2014,1,4,1919,1061991.43,San Francisco,Pre-WWI,107,527.3,2,1910,Medium,Premium,West Coast,Historic
+50,623,4,4,1903,349256.54,Chicago,Pre-WWI,123,560.6,8,1900,Small,Budget,Midwest,Historic
+51,3618,5,2,1992,2884846.24,Chicago,1990s Boom,34,797.36,10,1990,Luxury,Luxury,Midwest,Established
+52,2397,3,3,1960,790682.37,San Francisco,Vietnam War Era,66,329.86,6,1960,Medium,Mid-Range,West Coast,Vintage
+53,1018,1,3,1919,575126.88,Chicago,Pre-WWI,107,564.96,2,1910,Small,Mid-Range,Midwest,Historic
+54,1017,1,4,1962,1180883.15,San Francisco,Vietnam War Era,64,1161.14,2,1960,Small,Premium,West Coast,Vintage
+55,2695,20,5,1918,1056683.16,New York City,Pre-WWI,108,392.09,40,1910,Large,Premium,East Coast,Historic
+56,2592,6,4,1959,1796102.58,New York City,Cold War,67,692.94,12,1950,Large,Premium,East Coast,Vintage
+57,1596,3,2,1957,605836.19,San Francisco,Cold War,69,379.6,6,1950,Medium,Mid-Range,West Coast,Vintage
+58,4999,6,4,1982,2615033.93,San Francisco,Oil Crisis and Recovery,44,523.11,12,1980,Luxury,Luxury,West Coast,Established
+59,4832,6,2,2026,1180883.15,San Francisco,COVID-19,0,244.39,12,2020,Luxury,Premium,West Coast,Modern
+60,3605,1,5,1974,1595071.35,Boston,Vietnam War Era,52,442.46,2,1970,Luxury,Premium,East Coast,Vintage
+61,3755,6,4,1935,2279975.0,Austin,Great Depression,91,607.18,12,1930,Luxury,Luxury,South,Vintage
+62,888,2,4,1934,1180883.15,Los Angeles,Great Depression,92,1329.82,4,1930,Small,Premium,West Coast,Vintage
+63,1972,5,5,1908,568549.58,Boston,Pre-WWI,118,288.31,10,1900,Medium,Mid-Range,East Coast,Historic
+64,967,6,1,2011,541651.91,San Francisco,Housing Crisis,15,560.14,12,2010,Small,Mid-Range,West Coast,Modern
+65,4904,5,4,1932,2084710.67,San Francisco,Great Depression,94,425.1,10,1930,Luxury,Luxury,West Coast,Vintage
+66,2126,1,5,1959,528502.71,San Francisco,Cold War,67,248.59,2,1950,Medium,Mid-Range,West Coast,Vintage
+67,1352,6,1,1951,438478.83,Austin,Cold War,75,324.32,12,1950,Small,Budget,South,Vintage
+68,3818,1,1,1906,1353744.45,Chicago,Pre-WWI,120,354.57,2,1900,Luxury,Premium,Midwest,Historic
+69,3924,4,2,1951,39240.0,New York City,Cold War,75,10.0,8,1950,Luxury,Budget,East Coast,Vintage
+70,791,1,2,1959,451972.47,Austin,Cold War,67,571.39,2,1950,Small,Budget,South,Vintage
+71,2000,4,2,2020,991381.15,Los Angeles,COVID-19,6,495.69,8,2020,Medium,Mid-Range,West Coast,Modern
+72,2874,1,1,1994,2023776.94,Boston,1990s Boom,32,704.17,2,1990,Large,Luxury,East Coast,Established
+73,-100,3,1,1977,1060132.81,San Francisco,Oil Crisis and Recovery,49,-10601.33,6,1970,Small,Premium,West Coast,Established
+74,2392,2,1,1928,937610.47,Boston,Roaring Twenties,98,391.98,4,1920,Medium,Mid-Range,East Coast,Vintage
+75,755,6,5,2013,448012.63,San Francisco,Housing Crisis,13,593.39,12,2010,Small,Budget,West Coast,Modern
+76,3274,1,4,2003,2440843.48,New York City,Post 9/11 Growth,23,745.52,2,2000,Large,Luxury,East Coast,Established
+77,585,3,2,1917,413490.67,Miami,Pre-WWI,109,706.82,6,1910,Small,Budget,East Coast,Historic
+78,2822,6,1,1950,1270502.83,New York City,Cold War,76,450.21,12,1950,Large,Premium,East Coast,Vintage
+79,3614,4,5,1909,835217.52,Miami,Pre-WWI,117,231.11,8,1900,Luxury,Mid-Range,East Coast,Historic
+80,2260,2,5,1998,875633.15,Austin,1990s Boom,28,387.45,4,1990,Medium,Mid-Range,South,Established
+81,1838,2,2,1910,503593.13,Chicago,Pre-WWI,116,273.99,4,1910,Medium,Mid-Range,Midwest,Historic
+82,1798,6,3,1903,800781.74,Miami,Pre-WWI,123,445.37,12,1900,Medium,Mid-Range,East Coast,Historic
+83,2823,6,3,1967,1785314.93,San Francisco,Vietnam War Era,59,632.42,12,1960,Large,Premium,West Coast,Vintage
+84,706,4,4,1919,1180883.15,Austin,Pre-WWI,107,1672.64,8,1910,Small,Premium,South,Historic
+85,4532,1,2,2016,45320.0,San Francisco,Recovery and Growth,10,10.0,2,2010,Luxury,Budget,West Coast,Modern
+86,3981,2,3,1948,950628.2,New York City,Cold War,78,238.79,4,1940,Luxury,Mid-Range,East Coast,Vintage
+87,1417,5,2,2016,658374.8,New York City,Recovery and Growth,10,464.63,10,2010,Small,Mid-Range,East Coast,Modern
+88,722,1,4,1938,1180883.15,Chicago,Great Depression,88,1635.57,2,1930,Small,Premium,Midwest,Vintage
+89,567,1,5,1951,186063.31,New York City,Cold War,75,328.15,2,1950,Small,Budget,East Coast,Vintage
+90,863,2,4,1940,212647.47,San Francisco,World War II,86,246.4,4,1940,Small,Budget,West Coast,Vintage
+91,4832,1,4,1980,1580299.45,Miami,Oil Crisis and Recovery,46,327.05,2,1980,Luxury,Premium,East Coast,Established
+92,3708,5,4,1932,2960272.36,Austin,Great Depression,94,798.35,10,1930,Luxury,Luxury,South,Vintage
+93,1974,1,5,1959,1147299.91,New York City,Cold War,67,581.21,2,1950,Medium,Premium,East Coast,Vintage
+94,4281,4,4,1976,1871382.95,Boston,Oil Crisis and Recovery,50,437.14,8,1970,Luxury,Premium,East Coast,Established
+95,612,1,5,1968,172438.3,San Francisco,Vietnam War Era,58,281.76,2,1960,Small,Budget,West Coast,Vintage
+96,940,1,5,1940,675777.83,Chicago,World War II,86,718.91,2,1940,Small,Mid-Range,Midwest,Vintage
+97,1386,4,1,1909,362489.87,San Francisco,Pre-WWI,117,261.54,8,1900,Small,Budget,West Coast,Historic
+98,4755,3,4,1905,1174522.94,Miami,Pre-WWI,121,247.01,6,1900,Luxury,Premium,East Coast,Historic
+99,1870,5,4,1933,1463021.77,Los Angeles,Great Depression,93,782.36,10,1930,Medium,Premium,West Coast,Vintage
+100,4308,3,3,1910,1180883.15,Miami,Pre-WWI,116,274.11,6,1910,Luxury,Premium,East Coast,Historic
+101,3480,6,1,1923,942147.81,Boston,Roaring Twenties,103,270.73,12,1920,Large,Mid-Range,East Coast,Historic
+102,2189,6,5,2015,1004732.97,Los Angeles,Recovery and Growth,11,458.99,12,2010,Medium,Premium,West Coast,Modern
+103,4592,4,1,1917,2462392.96,Los Angeles,Pre-WWI,109,536.24,8,1910,Luxury,Luxury,West Coast,Historic
+104,3692,4,4,2013,2465782.04,Los Angeles,Housing Crisis,13,667.87,8,2010,Luxury,Luxury,West Coast,Modern
+105,3087,2,4,1998,1180883.15,Miami,1990s Boom,28,382.53,4,1990,Large,Premium,East Coast,Established
+106,1352,3,4,1993,1180883.15,Los Angeles,1990s Boom,33,873.43,6,1990,Small,Premium,West Coast,Established
+107,4877,1,2,1997,2778758.87,San Francisco,1990s Boom,29,569.77,2,1990,Luxury,Luxury,West Coast,Established
+108,4429,4,3,1959,2977418.17,New York City,Cold War,67,672.26,8,1950,Luxury,Luxury,East Coast,Vintage
+109,743,5,1,1923,425554.99,San Francisco,Roaring Twenties,103,572.75,10,1920,Small,Budget,West Coast,Historic
+110,669,1,2,2005,214869.47,Los Angeles,Post 9/11 Growth,21,321.18,2,2000,Small,Budget,West Coast,Established
+111,2820,5,5,1920,2132692.92,Boston,Roaring Twenties,106,756.27,10,1920,Large,Luxury,East Coast,Historic
+112,2863,2,1,1959,909770.93,Chicago,Cold War,67,317.77,4,1950,Large,Mid-Range,Midwest,Vintage
+113,1651,4,2,1948,967668.73,Chicago,Cold War,78,586.11,8,1940,Medium,Mid-Range,Midwest,Vintage
+114,1752,5,2,2005,900734.1,New York City,Post 9/11 Growth,21,514.12,10,2000,Medium,Mid-Range,East Coast,Established
+115,1935,5,5,2018,1268659.1,Austin,Recovery and Growth,8,655.64,10,2010,Medium,Premium,South,Modern
+116,3330,5,3,1939,1553357.9,New York City,World War II,87,466.47,10,1930,Large,Premium,East Coast,Vintage
+117,2710,6,3,1944,1223353.07,New York City,World War II,82,451.42,12,1940,Large,Premium,East Coast,Vintage
+118,4926,6,4,1951,1839499.27,Austin,Cold War,75,373.43,12,1950,Luxury,Premium,South,Vintage
+119,2658,6,2,1948,1180883.15,New York City,Cold War,78,444.28,12,1940,Large,Premium,East Coast,Vintage
+120,2813,4,5,1974,1723235.92,San Francisco,Vietnam War Era,52,612.6,8,1970,Large,Premium,West Coast,Vintage
+121,754,2,4,1962,430349.95,San Francisco,Vietnam War Era,64,570.76,4,1960,Small,Budget,West Coast,Vintage
+122,1937,4,2,1905,1180883.15,San Francisco,Pre-WWI,121,609.65,8,1900,Medium,Premium,West Coast,Historic
+123,905,2,3,1959,650848.36,Miami,Cold War,67,719.17,4,1950,Small,Mid-Range,East Coast,Vintage
+124,983,4,4,2021,465190.41,New York City,COVID-19,5,473.24,8,2020,Small,Budget,East Coast,Modern
+125,3539,3,2,1963,2820439.13,San Francisco,Vietnam War Era,63,796.96,6,1960,Luxury,Luxury,West Coast,Vintage
+126,2256,3,4,1937,1763039.92,San Francisco,Great Depression,89,781.49,6,1930,Medium,Premium,West Coast,Vintage
+127,2284,6,3,1912,881513.06,Boston,Pre-WWI,114,385.95,12,1910,Medium,Mid-Range,East Coast,Historic
+128,-100,2,3,1904,586529.68,New York City,Pre-WWI,122,-5865.3,4,1900,Small,Mid-Range,East Coast,Historic
+129,4542,5,1,2001,2517932.58,Chicago,Post 9/11 Growth,25,554.37,10,2000,Luxury,Luxury,Midwest,Established
+130,2851,5,2,2016,1535164.26,San Francisco,Recovery and Growth,10,538.47,10,2010,Large,Premium,West Coast,Modern
+131,3652,4,5,1998,1180883.15,New York City,1990s Boom,28,323.35,8,1990,Luxury,Premium,East Coast,Established
+132,1724,2,2,1912,851969.88,Miami,Pre-WWI,114,494.18,4,1910,Medium,Mid-Range,East Coast,Historic
+133,954,1,4,1963,207047.52,Austin,Vietnam War Era,63,217.03,2,1960,Small,Budget,South,Vintage
+134,1907,2,1,1973,1436359.58,Chicago,Vietnam War Era,53,753.2,4,1970,Medium,Premium,Midwest,Vintage
+135,1931,5,1,1978,654445.57,Boston,Oil Crisis and Recovery,48,338.92,10,1970,Medium,Mid-Range,East Coast,Established
+136,4361,4,2,1959,1453589.77,Chicago,Cold War,67,333.32,8,1950,Luxury,Premium,Midwest,Vintage
+137,4909,6,4,1932,2233023.79,Boston,Great Depression,94,454.88,12,1930,Luxury,Luxury,East Coast,Vintage
+138,1252,2,5,1986,793251.31,Los Angeles,Oil Crisis and Recovery,40,633.59,4,1980,Small,Mid-Range,West Coast,Established
+139,580,2,5,1931,296748.48,Los Angeles,Great Depression,95,511.64,4,1930,Small,Budget,West Coast,Vintage
+140,4788,1,4,2002,1384232.23,New York City,Post 9/11 Growth,24,289.1,2,2000,Luxury,Premium,East Coast,Established
+141,1283,5,4,1973,289097.55,Boston,Vietnam War Era,53,225.33,10,1970,Small,Budget,East Coast,Vintage
+142,2199,2,3,1966,444309.83,San Francisco,Vietnam War Era,60,202.05,4,1960,Medium,Budget,West Coast,Vintage
+143,3164,3,5,1974,1848997.98,Chicago,Vietnam War Era,52,584.39,6,1970,Large,Premium,Midwest,Vintage
+144,2362,1,5,1928,1180883.15,Austin,Roaring Twenties,98,499.95,2,1920,Medium,Premium,South,Vintage
+145,530,3,2,2021,423779.71,San Francisco,COVID-19,5,799.58,6,2020,Small,Budget,West Coast,Modern
+146,2530,3,2,2021,1564597.95,New York City,COVID-19,5,618.42,6,2020,Large,Premium,East Coast,Modern
+147,4680,4,2,1986,2524988.67,Los Angeles,Oil Crisis and Recovery,40,539.53,8,1980,Luxury,Luxury,West Coast,Established
+148,3872,4,3,1901,2884901.42,Los Angeles,Pre-WWI,125,745.07,8,1900,Luxury,Luxury,West Coast,Historic
+149,1410,2,2,1982,520811.97,San Francisco,Oil Crisis and Recovery,44,369.37,4,1980,Small,Mid-Range,West Coast,Established
+150,852,1,5,1960,264539.54,San Francisco,Vietnam War Era,66,310.49,2,1960,Small,Budget,West Coast,Vintage
+151,1664,2,2,1917,1187477.73,Miami,Pre-WWI,109,713.63,4,1910,Medium,Premium,East Coast,Historic
+152,598,6,1,2011,462581.17,Los Angeles,Housing Crisis,15,773.55,12,2010,Small,Budget,West Coast,Modern
+153,3045,2,3,1998,1841816.99,Boston,1990s Boom,28,604.87,4,1990,Large,Premium,East Coast,Established
+154,3010,5,5,1925,1566276.54,San Francisco,Roaring Twenties,101,520.36,10,1920,Large,Premium,West Coast,Historic
+155,737,4,1,1983,286663.88,Los Angeles,Oil Crisis and Recovery,43,388.96,8,1980,Small,Budget,West Coast,Established
+156,4140,5,5,1994,2707784.31,Miami,1990s Boom,32,654.05,10,1990,Luxury,Luxury,East Coast,Established
+157,3712,6,1,1930,1032101.39,Los Angeles,Great Depression,96,278.04,12,1930,Luxury,Premium,West Coast,Vintage
+158,3372,6,3,1925,1450655.06,Los Angeles,Roaring Twenties,101,430.21,12,1920,Large,Premium,West Coast,Historic
+159,3627,1,2,2007,1989318.43,Los Angeles,Post 9/11 Growth,19,548.47,2,2000,Luxury,Premium,West Coast,Modern
+160,1728,5,4,1905,352665.76,New York City,Pre-WWI,121,204.09,10,1900,Medium,Budget,East Coast,Historic
+161,2364,4,1,1988,1823636.27,Miami,Oil Crisis and Recovery,38,771.42,8,1980,Medium,Premium,East Coast,Established
+162,1843,2,2,1980,1140329.2,Los Angeles,Oil Crisis and Recovery,46,618.74,4,1980,Medium,Premium,West Coast,Established
+163,1348,1,1,1912,738263.18,Miami,Pre-WWI,114,547.67,2,1910,Small,Mid-Range,East Coast,Historic
+164,3225,1,3,2000,2043035.66,Chicago,1990s Boom,26,633.5,2,2000,Large,Luxury,Midwest,Established
+165,4679,4,3,1924,3674840.2,Chicago,Roaring Twenties,102,785.39,8,1920,Luxury,Luxury,Midwest,Historic
+166,997,4,5,1994,327418.38,New York City,1990s Boom,32,328.4,8,1990,Small,Budget,East Coast,Established
+167,2294,3,2,1991,790824.04,Austin,1990s Boom,35,344.74,6,1990,Medium,Mid-Range,South,Established
+168,4538,1,4,1949,1634583.09,Chicago,Cold War,77,360.2,2,1940,Luxury,Premium,Midwest,Vintage
+169,1419,4,1,1906,1180883.15,San Francisco,Pre-WWI,120,832.19,8,1900,Small,Premium,West Coast,Historic
+170,3316,1,5,1967,2645115.11,New York City,Vietnam War Era,59,797.68,2,1960,Large,Luxury,East Coast,Vintage
+171,3772,6,2,1936,878336.25,Chicago,Great Depression,90,232.86,12,1930,Luxury,Mid-Range,Midwest,Vintage
+172,3061,4,1,1996,30610.0,Chicago,1990s Boom,30,10.0,8,1990,Large,Budget,Midwest,Established
+173,805,2,1,1936,466547.16,San Francisco,Great Depression,90,579.56,4,1930,Small,Budget,West Coast,Vintage
+174,2352,2,2,2013,1591216.83,Los Angeles,Housing Crisis,13,676.54,4,2010,Medium,Premium,West Coast,Modern
+175,4920,3,3,1958,1344815.64,Boston,Cold War,68,273.34,6,1950,Luxury,Premium,East Coast,Vintage
+176,3354,6,1,1959,892018.53,Austin,Cold War,67,265.96,12,1950,Large,Mid-Range,South,Vintage
+177,686,6,3,1928,1372000.0,San Francisco,Roaring Twenties,98,2000.0,12,1920,Small,Premium,West Coast,Vintage
+178,1436,3,1,1930,1180883.15,San Francisco,Great Depression,96,822.34,6,1930,Small,Premium,West Coast,Vintage
+179,552,3,5,1937,222322.28,Boston,Great Depression,89,402.76,6,1930,Small,Budget,East Coast,Vintage
+180,3075,6,5,1934,1153023.94,Austin,Great Depression,92,374.97,12,1930,Large,Premium,South,Vintage
+181,4587,1,1,1948,2234192.01,New York City,Cold War,78,487.07,2,1940,Luxury,Luxury,East Coast,Vintage
+182,2105,6,2,1963,1105287.88,San Francisco,Vietnam War Era,63,525.08,12,1960,Medium,Premium,West Coast,Vintage
+183,3115,5,5,1982,1340271.35,Boston,Oil Crisis and Recovery,44,430.26,10,1980,Large,Premium,East Coast,Established
+184,1861,4,1,1942,752174.48,Los Angeles,World War II,84,404.18,8,1940,Medium,Mid-Range,West Coast,Vintage
+185,4031,6,1,1992,2933462.44,New York City,1990s Boom,34,727.73,12,1990,Luxury,Luxury,East Coast,Established
+186,1011,1,3,1934,480805.19,Los Angeles,Great Depression,92,475.57,2,1930,Small,Budget,West Coast,Vintage
+187,4459,5,5,1902,2522591.82,Chicago,Pre-WWI,124,565.73,10,1900,Luxury,Luxury,Midwest,Historic
+188,3909,1,1,1994,1511764.18,San Francisco,1990s Boom,32,386.74,2,1990,Luxury,Premium,West Coast,Established
+189,3058,6,5,1959,801948.16,Los Angeles,Cold War,67,262.25,12,1950,Large,Mid-Range,West Coast,Vintage
+190,-100,1,3,1991,2086097.89,San Francisco,1990s Boom,35,-20860.98,2,1990,Small,Luxury,West Coast,Established
+191,4973,6,1,2007,3849794.96,Austin,Post 9/11 Growth,19,774.14,12,2000,Luxury,Luxury,South,Modern
+192,2099,4,4,1959,620810.93,Boston,Cold War,67,295.77,8,1950,Medium,Mid-Range,East Coast,Vintage
+193,821,5,2,1982,287838.02,Los Angeles,Oil Crisis and Recovery,44,350.59,10,1980,Small,Budget,West Coast,Established
+194,1236,2,4,2014,793818.83,Austin,Housing Crisis,12,642.25,4,2010,Small,Mid-Range,South,Modern
+195,4952,3,4,1965,2790380.09,San Francisco,Vietnam War Era,61,563.49,6,1960,Luxury,Luxury,West Coast,Vintage
+196,1197,3,1,1949,335325.85,New York City,Cold War,77,280.14,6,1940,Small,Budget,East Coast,Vintage
+197,2039,3,2,1964,1181720.05,Los Angeles,Vietnam War Era,62,579.56,6,1960,Medium,Premium,West Coast,Vintage
+198,807,20,1,1980,1180883.15,Austin,Oil Crisis and Recovery,46,1463.3,40,1980,Small,Premium,South,Established
+199,1800,4,4,1959,363602.54,Los Angeles,Cold War,67,202.0,8,1950,Medium,Budget,West Coast,Vintage
+200,1449,4,1,1918,616750.2,San Francisco,Pre-WWI,108,425.64,8,1910,Small,Mid-Range,West Coast,Historic
+201,2808,5,3,2002,1119010.38,New York City,Post 9/11 Growth,24,398.51,10,2000,Large,Premium,East Coast,Established
+202,1579,2,3,1956,800398.59,Chicago,Cold War,70,506.9,4,1950,Medium,Mid-Range,Midwest,Vintage
+203,2174,5,2,1959,973470.17,Miami,Cold War,67,447.78,10,1950,Medium,Mid-Range,East Coast,Vintage
+204,630,5,5,1959,163225.47,Boston,Cold War,67,259.09,10,1950,Small,Budget,East Coast,Vintage
+205,620,3,2,1914,1180883.15,Los Angeles,Pre-WWI,112,1904.65,6,1910,Small,Premium,West Coast,Historic
+206,4369,5,2,1909,1727298.95,New York City,Pre-WWI,117,395.35,10,1900,Luxury,Premium,East Coast,Historic
+207,3003,5,3,1919,1367411.12,Austin,Pre-WWI,107,455.35,10,1910,Large,Premium,South,Historic
+208,4176,6,1,1901,2993615.69,Austin,Pre-WWI,125,716.86,12,1900,Luxury,Luxury,South,Historic
+209,3857,1,4,1970,1121087.17,Los Angeles,Vietnam War Era,56,290.66,2,1970,Luxury,Premium,West Coast,Vintage
+210,650,3,2,1959,136580.26,New York City,Cold War,67,210.12,6,1950,Small,Budget,East Coast,Vintage
+211,4277,3,5,1909,1207288.24,San Francisco,Pre-WWI,117,282.27,6,1900,Luxury,Premium,West Coast,Historic
+212,2929,2,2,2002,915519.5,Miami,Post 9/11 Growth,24,312.57,4,2000,Large,Mid-Range,East Coast,Established
+213,1559,3,5,1910,545660.07,Los Angeles,Pre-WWI,116,350.01,6,1910,Medium,Mid-Range,West Coast,Historic
+214,4014,3,3,2014,1180883.15,Austin,Housing Crisis,12,294.19,6,2010,Luxury,Premium,South,Modern
+215,3006,3,3,1994,1408848.74,Los Angeles,1990s Boom,32,468.68,6,1990,Large,Premium,West Coast,Established
+216,3216,3,1,2018,2032036.44,Austin,Recovery and Growth,8,631.85,6,2010,Large,Luxury,South,Modern
+217,3078,2,1,1919,2083841.53,New York City,Pre-WWI,107,677.01,4,1910,Large,Luxury,East Coast,Historic
+218,2280,3,1,1975,1197137.43,Austin,Oil Crisis and Recovery,51,525.06,6,1970,Medium,Premium,South,Vintage
+219,3712,3,5,1990,1606234.96,New York City,1990s Boom,36,432.71,6,1990,Luxury,Premium,East Coast,Established
+220,620,3,1,2002,1180883.15,New York City,Post 9/11 Growth,24,1904.65,6,2000,Small,Premium,East Coast,Established
+221,4869,4,3,1996,2393032.66,Austin,1990s Boom,30,491.48,8,1990,Luxury,Luxury,South,Established
+222,1801,5,1,1904,1304407.68,San Francisco,Pre-WWI,122,724.27,10,1900,Medium,Premium,West Coast,Historic
+223,3638,2,1,1945,2089908.1,Boston,Cold War,81,574.47,4,1940,Luxury,Luxury,East Coast,Vintage
+224,4103,1,2,2024,1180883.15,San Francisco,COVID-19,2,287.81,2,2020,Luxury,Premium,West Coast,Modern
+225,4489,6,5,1901,1800492.07,New York City,Pre-WWI,125,401.09,12,1900,Luxury,Premium,East Coast,Historic
+226,1293,2,2,1943,745706.57,San Francisco,World War II,83,576.73,4,1940,Small,Mid-Range,West Coast,Vintage
+227,4003,1,1,1959,1157123.09,Los Angeles,Cold War,67,289.06,2,1950,Luxury,Premium,West Coast,Vintage
+228,1250,5,1,2019,874170.41,New York City,Recovery and Growth,7,699.34,10,2010,Small,Mid-Range,East Coast,Modern
+229,1497,6,4,1984,1180883.15,San Francisco,Oil Crisis and Recovery,42,788.83,12,1980,Small,Premium,West Coast,Established
+230,1527,4,2,1984,1180883.15,Chicago,Oil Crisis and Recovery,42,773.34,8,1980,Medium,Premium,Midwest,Established
+231,3279,5,5,1935,1308383.3,Chicago,Great Depression,91,399.02,10,1930,Large,Premium,Midwest,Vintage
+232,4834,5,2,1922,1599628.63,Chicago,Roaring Twenties,104,330.91,10,1920,Luxury,Premium,Midwest,Historic
+233,3684,2,3,2022,2834480.46,Miami,COVID-19,4,769.4,4,2020,Luxury,Luxury,East Coast,Modern
+234,4681,1,4,1905,1180883.15,New York City,Pre-WWI,121,252.27,2,1900,Luxury,Premium,East Coast,Historic
+235,1864,5,5,1963,515892.38,Los Angeles,Vietnam War Era,63,276.77,10,1960,Medium,Mid-Range,West Coast,Vintage
+236,4272,1,1,1967,1683788.56,Chicago,Vietnam War Era,59,394.15,2,1960,Luxury,Premium,Midwest,Vintage
+237,3358,5,3,1907,1463526.87,San Francisco,Pre-WWI,119,435.83,10,1900,Large,Premium,West Coast,Historic
+238,2696,2,4,2012,1912999.51,San Francisco,Housing Crisis,14,709.57,4,2010,Large,Premium,West Coast,Modern
+239,3579,1,2,1966,1037813.7,Boston,Vietnam War Era,60,289.97,2,1960,Luxury,Premium,East Coast,Vintage
+240,1560,2,3,1974,1180883.15,San Francisco,Vietnam War Era,52,756.98,4,1970,Medium,Premium,West Coast,Vintage
+241,2302,1,1,1992,914799.17,Los Angeles,1990s Boom,34,397.39,2,1990,Medium,Mid-Range,West Coast,Established
+242,2866,3,4,2024,28660.0,Boston,COVID-19,2,10.0,6,2020,Large,Budget,East Coast,Modern
+243,1575,5,5,2014,898713.01,San Francisco,Housing Crisis,12,570.61,10,2010,Medium,Mid-Range,West Coast,Modern
+244,745,4,2,1939,160487.29,Austin,World War II,87,215.42,8,1930,Small,Budget,South,Vintage
+245,4596,4,1,1996,3384779.81,New York City,1990s Boom,30,736.46,8,1990,Luxury,Luxury,East Coast,Established
+246,2341,4,4,1973,1663202.26,Los Angeles,Vietnam War Era,53,710.47,8,1970,Medium,Premium,West Coast,Vintage
+247,3008,3,3,1962,1180883.15,Chicago,Vietnam War Era,64,392.58,6,1960,Large,Premium,Midwest,Vintage
+248,3420,6,3,1944,1306406.22,Chicago,World War II,82,381.99,12,1940,Large,Premium,Midwest,Vintage
+249,4499,5,5,1982,2759785.73,Miami,Oil Crisis and Recovery,44,613.42,10,1980,Luxury,Luxury,East Coast,Established
+250,1527,3,4,2015,547358.12,San Francisco,Recovery and Growth,11,358.45,6,2010,Medium,Mid-Range,West Coast,Modern
+251,4256,4,3,1959,1180883.15,San Francisco,Cold War,67,277.46,8,1950,Luxury,Premium,West Coast,Vintage
+252,3633,3,3,1959,951430.55,San Francisco,Cold War,67,261.89,6,1950,Luxury,Mid-Range,West Coast,Vintage
+253,2537,3,1,1928,1819079.41,Chicago,Roaring Twenties,98,717.02,6,1920,Large,Premium,Midwest,Vintage
+254,2388,1,4,1952,23880.0,Chicago,Cold War,74,10.0,2,1950,Medium,Budget,Midwest,Vintage
+255,2382,5,1,1908,1367343.29,New York City,Pre-WWI,118,574.03,10,1900,Medium,Premium,East Coast,Historic
+256,1878,1,3,2001,1030980.32,Miami,Post 9/11 Growth,25,548.98,2,2000,Medium,Premium,East Coast,Established
+257,4970,1,3,2018,2791783.96,New York City,Recovery and Growth,8,561.73,2,2010,Luxury,Luxury,East Coast,Modern
+258,1920,1,4,2026,1180883.15,Miami,COVID-19,0,615.04,2,2020,Medium,Premium,East Coast,Modern
+259,1256,5,3,2024,2512000.0,Chicago,COVID-19,2,2000.0,10,2020,Small,Luxury,Midwest,Modern
+260,2038,1,1,1988,436777.16,Chicago,Oil Crisis and Recovery,38,214.32,2,1980,Medium,Budget,Midwest,Established
+261,1063,5,2,1902,258950.59,Miami,Pre-WWI,124,243.6,10,1900,Small,Budget,East Coast,Historic
+262,3212,2,3,1978,845113.36,Boston,Oil Crisis and Recovery,48,263.11,4,1970,Large,Mid-Range,East Coast,Established
+263,1952,5,2,1932,1508675.3,Miami,Great Depression,94,772.89,10,1930,Medium,Premium,East Coast,Vintage
+264,4298,2,2,2010,1180883.15,Los Angeles,Housing Crisis,16,274.75,4,2010,Luxury,Premium,West Coast,Modern
+265,4561,1,5,1972,2122531.32,San Francisco,Vietnam War Era,54,465.37,2,1970,Luxury,Luxury,West Coast,Vintage
+266,976,1,2,2004,287451.49,Los Angeles,Post 9/11 Growth,22,294.52,2,2000,Small,Budget,West Coast,Established
+267,1303,3,5,1920,922509.43,Austin,Roaring Twenties,106,707.99,6,1920,Small,Mid-Range,South,Historic
+268,3734,3,2,1911,1192482.65,New York City,Pre-WWI,115,319.36,6,1910,Luxury,Premium,East Coast,Historic
+269,1151,4,2,1979,899893.62,Austin,Oil Crisis and Recovery,47,781.84,8,1970,Small,Mid-Range,South,Established
+270,3055,1,2,1996,2123954.19,Los Angeles,1990s Boom,30,695.24,2,1990,Large,Luxury,West Coast,Established
+271,2675,3,4,1919,1136104.17,Los Angeles,Pre-WWI,107,424.71,6,1910,Large,Premium,West Coast,Historic
+272,1045,6,5,1912,294226.34,Los Angeles,Pre-WWI,114,281.56,12,1910,Small,Budget,West Coast,Historic
+273,3487,3,3,1928,1180883.15,San Francisco,Roaring Twenties,98,338.65,6,1920,Large,Premium,West Coast,Vintage
+274,4142,3,4,1993,3170755.68,Austin,1990s Boom,33,765.51,6,1990,Luxury,Luxury,South,Established
+275,2185,1,2,1988,1204288.98,New York City,Oil Crisis and Recovery,38,551.16,2,1980,Medium,Premium,East Coast,Established
+276,2128,3,4,1926,1172163.63,San Francisco,Roaring Twenties,100,550.83,6,1920,Medium,Premium,West Coast,Vintage
+277,4568,5,2,1990,2711444.58,Austin,1990s Boom,36,593.57,10,1990,Luxury,Luxury,South,Established
+278,939,3,5,1965,491056.77,Los Angeles,Vietnam War Era,61,522.96,6,1960,Small,Budget,West Coast,Vintage
+279,3102,6,3,1924,1856510.25,San Francisco,Roaring Twenties,102,598.49,12,1920,Large,Premium,West Coast,Historic
+280,4695,3,1,2019,1960710.64,Boston,Recovery and Growth,7,417.62,6,2010,Luxury,Premium,East Coast,Modern
+281,2234,2,2,1925,1180883.15,New York City,Roaring Twenties,101,528.6,4,1920,Medium,Premium,East Coast,Historic
+282,2869,1,4,2001,1209677.33,Austin,Post 9/11 Growth,25,421.64,2,2000,Large,Premium,South,Established
+283,3748,2,3,1920,7496000.0,Austin,Roaring Twenties,106,2000.0,4,1920,Luxury,Luxury,South,Historic
+284,2123,2,2,1913,1180883.15,Austin,Pre-WWI,113,556.23,4,1910,Medium,Premium,South,Historic
+285,4424,6,2,2019,2058927.13,Chicago,Recovery and Growth,7,465.4,12,2010,Luxury,Luxury,Midwest,Modern
+286,4372,2,2,2010,3018573.11,San Francisco,Housing Crisis,16,690.43,4,2010,Luxury,Luxury,West Coast,Modern
+287,2836,4,1,1986,751621.33,Los Angeles,Oil Crisis and Recovery,40,265.03,8,1980,Large,Mid-Range,West Coast,Established
+288,2271,5,4,1907,1428780.33,Los Angeles,Pre-WWI,119,629.14,10,1900,Medium,Premium,West Coast,Historic
+289,3956,1,5,1947,3048157.67,New York City,Cold War,79,770.52,2,1940,Luxury,Luxury,East Coast,Vintage
+290,4060,2,2,1903,2468978.22,Boston,Pre-WWI,123,608.12,4,1900,Luxury,Luxury,East Coast,Historic
+291,4973,6,2,1987,3245460.43,Austin,Oil Crisis and Recovery,39,652.62,12,1980,Luxury,Luxury,South,Established
+292,948,5,4,1961,477966.23,San Francisco,Vietnam War Era,65,504.18,10,1960,Small,Budget,West Coast,Vintage
+293,3691,3,5,1950,2393205.73,Los Angeles,Cold War,76,648.39,6,1950,Luxury,Luxury,West Coast,Vintage
+294,1367,2,2,2011,1072721.02,Austin,Housing Crisis,15,784.73,4,2010,Small,Premium,South,Modern
+295,4933,3,1,1965,3267890.51,Boston,Vietnam War Era,61,662.45,6,1960,Luxury,Luxury,East Coast,Vintage
+296,3216,4,4,1907,2221152.59,New York City,Pre-WWI,119,690.66,8,1900,Large,Luxury,East Coast,Historic
+297,3635,2,3,1951,1044583.62,San Francisco,Cold War,75,287.37,4,1950,Luxury,Premium,West Coast,Vintage
+298,1024,3,4,2004,721928.84,San Francisco,Post 9/11 Growth,22,705.01,6,2000,Small,Mid-Range,West Coast,Established
+299,1725,6,5,1927,1266339.97,Los Angeles,Roaring Twenties,99,734.11,12,1920,Medium,Premium,West Coast,Vintage
+300,3652,5,4,1985,1862541.91,New York City,Oil Crisis and Recovery,41,510.01,10,1980,Luxury,Premium,East Coast,Established
+301,3051,4,5,1926,1180883.15,Boston,Roaring Twenties,100,387.05,8,1920,Large,Premium,East Coast,Vintage
+302,4175,4,3,1934,3037608.45,New York City,Great Depression,92,727.57,8,1930,Luxury,Luxury,East Coast,Vintage
+303,3162,5,4,1939,1900343.44,Los Angeles,World War II,87,600.99,10,1930,Large,Premium,West Coast,Vintage
+304,1687,1,3,1999,1190441.71,New York City,1990s Boom,27,705.66,2,1990,Medium,Premium,East Coast,Established
+305,3808,2,1,1942,2084071.95,San Francisco,World War II,84,547.29,4,1940,Luxury,Luxury,West Coast,Vintage
+306,4323,6,2,2005,2213316.45,Austin,Post 9/11 Growth,21,511.99,12,2000,Luxury,Luxury,South,Established
+307,713,4,4,1991,326248.87,Boston,1990s Boom,35,457.57,8,1990,Small,Budget,East Coast,Established
+308,3371,1,5,1912,1180883.15,New York City,Pre-WWI,114,350.31,2,1910,Large,Premium,East Coast,Historic
+309,561,3,5,1907,146828.25,New York City,Pre-WWI,119,261.73,6,1900,Small,Budget,East Coast,Historic
+310,2569,2,2,1967,1308513.56,New York City,Vietnam War Era,59,509.35,4,1960,Large,Premium,East Coast,Vintage
+311,2924,1,4,1947,1180883.15,Chicago,Cold War,79,403.86,2,1940,Large,Premium,Midwest,Vintage
+312,731,3,4,2007,232185.73,Los Angeles,Post 9/11 Growth,19,317.63,6,2000,Small,Budget,West Coast,Modern
+313,4997,3,3,1913,1180883.15,San Francisco,Pre-WWI,113,236.32,6,1910,Luxury,Premium,West Coast,Historic
+314,1309,5,5,1959,927805.86,New York City,Cold War,67,708.79,10,1950,Small,Mid-Range,East Coast,Vintage
+315,3867,6,4,1959,1273157.18,New York City,Cold War,67,329.24,12,1950,Luxury,Premium,East Coast,Vintage
+316,2985,3,5,1948,1943093.42,Los Angeles,Cold War,78,650.95,6,1940,Large,Premium,West Coast,Vintage
+317,1135,4,5,1935,1180883.15,Los Angeles,Great Depression,91,1040.43,8,1930,Small,Premium,West Coast,Vintage
+318,3075,2,1,1993,1024222.28,New York City,1990s Boom,33,333.08,4,1990,Large,Premium,East Coast,Established
+319,1983,4,3,1939,655768.37,Austin,World War II,87,330.7,8,1930,Medium,Mid-Range,South,Vintage
+320,3355,2,5,1959,2078031.26,Boston,Cold War,67,619.38,4,1950,Large,Luxury,East Coast,Vintage
+321,3796,1,2,1959,2203642.12,Boston,Cold War,67,580.52,2,1950,Luxury,Luxury,East Coast,Vintage
+322,964,4,3,1982,9640.0,Austin,Oil Crisis and Recovery,44,10.0,8,1980,Small,Budget,South,Established
+323,1878,2,5,1924,1205054.09,Chicago,Roaring Twenties,102,641.67,4,1920,Medium,Premium,Midwest,Historic
+324,652,2,3,1911,228851.74,New York City,Pre-WWI,115,351.0,4,1910,Small,Budget,East Coast,Historic
+325,2742,4,5,1921,1630636.24,Austin,Roaring Twenties,105,594.69,8,1920,Large,Premium,South,Historic
+326,2828,3,1,2003,589115.68,New York City,Post 9/11 Growth,23,208.32,6,2000,Large,Mid-Range,East Coast,Established
+327,2817,6,2,1916,1309602.86,Miami,Pre-WWI,110,464.89,12,1910,Large,Premium,East Coast,Historic
+328,3523,2,5,1934,1924329.11,Miami,Great Depression,92,546.22,4,1930,Luxury,Premium,East Coast,Vintage
+329,2266,1,3,1917,850749.66,Chicago,Pre-WWI,109,375.44,2,1910,Medium,Mid-Range,Midwest,Historic
+330,2612,6,2,1980,1218363.42,New York City,Oil Crisis and Recovery,46,466.45,12,1980,Large,Premium,East Coast,Established
+331,3174,1,5,1942,1180883.15,San Francisco,World War II,84,372.05,2,1940,Large,Premium,West Coast,Vintage
+332,4998,6,5,1905,1681842.38,San Francisco,Pre-WWI,121,336.5,12,1900,Luxury,Premium,West Coast,Historic
+333,3300,4,2,1906,1864854.82,New York City,Pre-WWI,120,565.11,8,1900,Large,Premium,East Coast,Historic
+334,4481,6,2,2009,2118778.33,New York City,Housing Crisis,17,472.84,12,2000,Luxury,Luxury,East Coast,Modern
+335,1382,4,5,1921,758983.81,Austin,Roaring Twenties,105,549.19,8,1920,Small,Mid-Range,South,Historic
+336,3806,1,2,1959,1180883.15,Austin,Cold War,67,310.27,2,1950,Luxury,Premium,South,Vintage
+337,4208,1,3,1967,3036561.27,San Francisco,Vietnam War Era,59,721.62,2,1960,Luxury,Luxury,West Coast,Vintage
+338,1631,1,2,1952,1180883.15,Los Angeles,Cold War,74,724.02,2,1950,Medium,Premium,West Coast,Vintage
+339,4260,6,5,1959,8520000.0,Austin,Cold War,67,2000.0,12,1950,Luxury,Luxury,South,Vintage
+340,4083,1,5,1935,3042929.38,Chicago,Great Depression,91,745.27,2,1930,Luxury,Luxury,Midwest,Vintage
+341,3294,1,5,1904,1362884.53,Boston,Pre-WWI,122,413.75,2,1900,Large,Premium,East Coast,Historic
+342,1877,2,5,2008,18770.0,New York City,Housing Crisis,18,10.0,4,2000,Medium,Budget,East Coast,Modern
+343,515,4,5,1991,1180883.15,Boston,1990s Boom,35,2292.98,8,1990,Small,Premium,East Coast,Established
+344,3340,3,4,1910,800163.61,New York City,Pre-WWI,116,239.57,6,1910,Large,Mid-Range,East Coast,Historic
+345,4426,1,5,2024,3052191.32,Austin,COVID-19,2,689.6,2,2020,Luxury,Luxury,South,Modern
+346,4047,6,2,1930,1767016.79,Miami,Great Depression,96,436.62,12,1930,Luxury,Premium,East Coast,Vintage
+347,1441,1,5,1984,814352.19,Chicago,Oil Crisis and Recovery,42,565.13,2,1980,Small,Mid-Range,Midwest,Established
+348,4203,6,1,1960,2144872.77,Los Angeles,Vietnam War Era,66,510.32,12,1960,Luxury,Luxury,West Coast,Vintage
+349,1346,1,1,2010,1058963.96,New York City,Housing Crisis,16,786.75,2,2010,Small,Premium,East Coast,Modern
+350,3203,4,5,1948,1044438.33,Chicago,Cold War,78,326.08,8,1940,Large,Premium,Midwest,Vintage
+351,3705,20,3,2014,2218409.79,Los Angeles,Housing Crisis,12,598.76,40,2010,Luxury,Luxury,West Coast,Modern
+352,943,6,5,1959,628410.66,Boston,Cold War,67,666.4,12,1950,Small,Mid-Range,East Coast,Vintage
+353,3968,1,2,1957,1176009.9,Miami,Cold War,69,296.37,2,1950,Luxury,Premium,East Coast,Vintage
+354,1991,1,5,1902,1281517.74,Austin,Pre-WWI,124,643.66,2,1900,Medium,Premium,South,Historic
+355,2364,2,1,2020,777475.57,Boston,COVID-19,6,328.88,4,2020,Medium,Mid-Range,East Coast,Modern
+356,715,1,1,1999,325690.36,Boston,1990s Boom,27,455.51,2,1990,Small,Budget,East Coast,Established
+357,3241,3,3,1905,1971527.08,New York City,Pre-WWI,121,608.31,6,1900,Large,Premium,East Coast,Historic
+358,1906,6,2,1952,1178375.89,San Francisco,Cold War,74,618.25,12,1950,Medium,Premium,West Coast,Vintage
+359,4748,1,5,1985,3472565.82,Austin,Oil Crisis and Recovery,41,731.37,2,1980,Luxury,Luxury,South,Established
+360,1710,1,3,1993,959092.83,New York City,1990s Boom,33,560.87,2,1990,Medium,Mid-Range,East Coast,Established
+361,2129,5,1,2022,1108994.39,San Francisco,COVID-19,4,520.9,10,2020,Medium,Premium,West Coast,Modern
+362,4495,4,5,1987,1565358.45,San Francisco,Oil Crisis and Recovery,39,348.24,8,1980,Luxury,Premium,West Coast,Established
+363,517,6,1,1936,143862.87,San Francisco,Great Depression,90,278.26,12,1930,Small,Budget,West Coast,Vintage
+364,2768,5,3,2003,703873.27,Los Angeles,Post 9/11 Growth,23,254.29,10,2000,Large,Mid-Range,West Coast,Established
+365,2167,4,5,1904,1114540.31,San Francisco,Pre-WWI,122,514.32,8,1900,Medium,Premium,West Coast,Historic
+366,860,5,3,2008,609922.46,Los Angeles,Housing Crisis,18,709.21,10,2000,Small,Mid-Range,West Coast,Modern
+367,3541,20,3,1997,2696554.33,Boston,1990s Boom,29,761.52,40,1990,Luxury,Luxury,East Coast,Established
+368,2376,5,3,1925,1180883.15,Austin,Roaring Twenties,101,497.0,10,1920,Medium,Premium,South,Historic
+369,4304,1,3,1953,3345120.68,San Francisco,Cold War,73,777.21,2,1950,Luxury,Luxury,West Coast,Vintage
+370,2518,6,5,1953,1036463.92,Los Angeles,Cold War,73,411.62,12,1950,Large,Premium,West Coast,Vintage
+371,3338,3,3,1904,711503.89,Miami,Pre-WWI,122,213.15,6,1900,Large,Mid-Range,East Coast,Historic
+372,2255,4,2,1996,514715.97,Chicago,1990s Boom,30,228.26,8,1990,Medium,Mid-Range,Midwest,Established
+373,1184,2,1,1921,740252.11,San Francisco,Roaring Twenties,105,625.21,4,1920,Small,Mid-Range,West Coast,Historic
+374,1956,4,2,1939,509088.87,Chicago,World War II,87,260.27,8,1930,Medium,Mid-Range,Midwest,Vintage
+375,3419,1,3,1959,2576977.93,Miami,Cold War,67,753.72,2,1950,Large,Luxury,East Coast,Vintage
+376,4880,3,3,2004,3709981.28,Boston,Post 9/11 Growth,22,760.24,6,2000,Luxury,Luxury,East Coast,Established
+377,3303,2,2,1918,1180883.15,Los Angeles,Pre-WWI,108,357.52,4,1910,Large,Premium,West Coast,Historic
+378,4728,1,4,1932,1180883.15,Boston,Great Depression,94,249.76,2,1930,Luxury,Premium,East Coast,Vintage
+379,2740,4,5,1959,579740.59,San Francisco,Cold War,67,211.58,8,1950,Large,Mid-Range,West Coast,Vintage
+380,581,6,1,1967,1180883.15,Miami,Vietnam War Era,59,2032.5,12,1960,Small,Premium,East Coast,Vintage
+381,811,3,2,1908,1180883.15,San Francisco,Pre-WWI,118,1456.08,6,1900,Small,Premium,West Coast,Historic
+382,3967,1,1,2026,1180883.15,New York City,COVID-19,0,297.68,2,2020,Luxury,Premium,East Coast,Modern
+383,2644,6,5,1940,1180883.15,Boston,World War II,86,446.63,12,1940,Large,Premium,East Coast,Vintage
+384,-100,2,3,2006,1454516.52,San Francisco,Post 9/11 Growth,20,-14545.17,4,2000,Small,Premium,West Coast,Modern
+385,1139,2,3,1915,496344.73,New York City,Pre-WWI,111,435.77,4,1910,Small,Budget,East Coast,Historic
+386,3656,6,2,1959,1572060.51,Los Angeles,Cold War,67,429.99,12,1950,Luxury,Premium,West Coast,Vintage
+387,1021,6,3,1936,403576.59,Miami,Great Depression,90,395.28,12,1930,Small,Budget,East Coast,Vintage
+388,1402,6,5,1980,587973.39,Boston,Oil Crisis and Recovery,46,419.38,12,1980,Small,Mid-Range,East Coast,Established
+389,3519,1,2,1942,2365404.09,New York City,World War II,84,672.18,2,1940,Luxury,Luxury,East Coast,Vintage
+390,3557,5,2,2003,1180883.15,Miami,Post 9/11 Growth,23,331.99,10,2000,Luxury,Premium,East Coast,Established
+391,3760,2,1,1953,2749555.58,Austin,Cold War,73,731.26,4,1950,Luxury,Luxury,South,Vintage
+392,1467,3,5,1938,970356.55,Chicago,Great Depression,88,661.46,6,1930,Small,Mid-Range,Midwest,Vintage
+393,1303,5,5,1913,261474.39,Boston,Pre-WWI,113,200.67,10,1910,Small,Budget,East Coast,Historic
+394,1691,5,3,1955,850433.91,Los Angeles,Cold War,71,502.92,10,1950,Medium,Mid-Range,West Coast,Vintage
+395,2452,1,5,2017,1433478.51,Miami,Recovery and Growth,9,584.62,2,2010,Medium,Premium,East Coast,Modern
+396,4043,3,4,2026,960473.13,Los Angeles,COVID-19,0,237.56,6,2020,Luxury,Mid-Range,West Coast,Modern
+397,2649,4,1,1970,1373722.24,Austin,Vietnam War Era,56,518.58,8,1970,Large,Premium,South,Vintage
+398,4902,3,3,2005,1180883.15,Los Angeles,Post 9/11 Growth,21,240.9,6,2000,Luxury,Premium,West Coast,Established
+399,1963,3,4,2008,1274725.66,San Francisco,Housing Crisis,18,649.38,6,2000,Medium,Premium,West Coast,Modern
+400,3857,1,4,1970,1121087.17,Los Angeles,Vietnam War Era,56,290.66,2,1970,Luxury,Premium,West Coast,Vintage
+401,4695,3,1,2019,1960710.64,Boston,Recovery and Growth,7,417.62,6,2010,Luxury,Premium,East Coast,Modern
+402,4360,6,3,1950,2551135.51,New York City,Cold War,76,585.12,12,1950,Luxury,Luxury,East Coast,Vintage
+403,650,3,2,1959,136580.26,New York City,Cold War,67,210.12,6,1950,Small,Budget,East Coast,Vintage
+404,1974,1,5,1959,1147299.91,New York City,Cold War,67,581.21,2,1950,Medium,Premium,East Coast,Vintage
+405,706,4,4,1919,1180883.15,Austin,Pre-WWI,107,1672.64,8,1910,Small,Premium,South,Historic
+406,2266,1,3,1917,850749.66,Chicago,Pre-WWI,109,375.44,2,1910,Medium,Mid-Range,Midwest,Historic
+407,4281,4,4,1976,1871382.95,Boston,Oil Crisis and Recovery,50,437.14,8,1970,Luxury,Premium,East Coast,Established
+408,976,1,2,2004,287451.49,Los Angeles,Post 9/11 Growth,22,294.52,2,2000,Small,Budget,West Coast,Established
+409,2256,3,4,1937,1763039.92,San Francisco,Great Depression,89,781.49,6,1930,Medium,Premium,West Coast,Vintage
+410,3729,1,2,1913,1489205.48,Los Angeles,Pre-WWI,113,399.36,2,1910,Luxury,Premium,West Coast,Historic
+411,2129,5,1,2022,1108994.39,San Francisco,COVID-19,4,520.9,10,2020,Medium,Premium,West Coast,Modern
+412,2592,6,4,1959,1796102.58,New York City,Cold War,67,692.94,12,1950,Large,Premium,East Coast,Vintage
+413,2874,1,1,1994,2023776.94,Boston,1990s Boom,32,704.17,2,1990,Large,Luxury,East Coast,Established
+414,1724,2,2,1912,851969.88,Miami,Pre-WWI,114,494.18,4,1910,Medium,Mid-Range,East Coast,Historic
+415,3674,5,5,1959,2664238.68,Los Angeles,Cold War,67,725.16,10,1950,Luxury,Luxury,West Coast,Vintage
+416,939,3,5,1965,491056.77,Los Angeles,Vietnam War Era,61,522.96,6,1960,Small,Budget,West Coast,Vintage
+417,4880,3,3,2004,3709981.28,Boston,Post 9/11 Growth,22,760.24,6,2000,Luxury,Luxury,East Coast,Established
+418,3279,5,5,1935,1308383.3,Chicago,Great Depression,91,399.02,10,1930,Large,Premium,Midwest,Vintage
+419,1139,2,3,1915,496344.73,New York City,Pre-WWI,111,435.77,4,1910,Small,Budget,East Coast,Historic
